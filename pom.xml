@@ -257,7 +257,7 @@
               <docfilessubdirs>true</docfilessubdirs>
               <show>package</show>
               <links>
-                <link>http://testng.org/javadocs/</link>
+                <link>https://javadoc.jitpack.io/com/github/cbeust/testng/6.9.10/javadoc/</link>
               </links>
             </configuration>
             <reports>
